@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Olá, eu sou Marcus Vinicius Santos Cardoso (Vini)
+🎯 Desenvolvedor Java apaixonado por tecnologia, aprendizado contínuo e resolver problemas complexos com código.
 
-<!--
-**MarVinCar/MarVinCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente, estou me aprofundando em:
 
-Here are some ideas to get you started:
+- Desenvolvimento back-end com Java e Spring Boot;
+- Práticas de Clean Code e arquitetura de software;
+- Uso de containers Docker e bancos de dados relacional e não-relacional;
+💼 O que eu faço?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Construo soluções robustas e escaláveis para aplicações corporativas
+- Exploro ferramentas modernas como o IntelliJ IDEA, Redis, e frameworks front-end como Angular
+- Crio conteúdos sobre educação financeira, investimentos e mindset de prosperidade
+
+🚀 Tecnologias e Ferramentas
+- Back-end: Java, Spring Boot, Hibernate;
+- Front-end: Angular, HTML, CSS, TypeScript;
+- Banco de Dados: MySQL, PostgreSQL, MongoDB;
+- Mensagens: Kafka;
+- Ferramentas: Docker, IntelliJ IDEA, Git, Postman, VSCode;
+
+📫 Entre em Contato
+- LinkedIn: https://www.linkedin.com/in/marcus-vinicius-s-84aab9261/
